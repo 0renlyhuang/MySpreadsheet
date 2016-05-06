@@ -15,8 +15,8 @@ Click the items of memu:
 </br>
 ![image](https://github.com/huang-jiafeng/MySpreadsheet/blob/Content/Picture/Options.PNG)
 
-####All these items works well! 
-####So do all the tool bars.
+All these items works well! 
+So do all the tool bars.
 </br>
 
 Cell can be entered with Number or String.</br>
@@ -27,6 +27,9 @@ Cell will do the calculation.</br>
 But if the input is invalid, like this:</br>
 ![image](https://github.com/huang-jiafeng/MySpreadsheet/blob/Content/Picture/InvalidInput1.PNG)</br>
 The Cell will check it and inform with '#'</br>
-![image](https://github.com/huang-jiafeng/MySpreadsheet/blob/Content/Picture/InvalidInput2.PNG) 
+![image](https://github.com/huang-jiafeng/MySpreadsheet/blob/Content/Picture/InvalidInput2.PNG) </br>
+
+##And it supports All the normal short-keys</br>
+###like CONTROL+C、 CONTROL+V、CONTROL+X、DELETE and others.
 
 
