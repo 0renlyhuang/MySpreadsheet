@@ -15,8 +15,8 @@ Click the items of memu:
 </br>
 ![image](https://github.com/huang-jiafeng/MySpreadsheet/blob/Content/Picture/Options.PNG)
 
-All these items works well! 
-So do all the tool bars.
+###All these items works well! </br>
+###So do all the tool bars.
 </br>
 
 Cell can be entered with Number or String.</br>
